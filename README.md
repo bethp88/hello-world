@@ -1,2 +1,3 @@
 # hello-world
-first attempt
+My name is Beth and this is my first repository you guys!!
+
